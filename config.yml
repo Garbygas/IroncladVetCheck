@@ -1,0 +1,29 @@
+
+##############################################################################
+#                           Vetchecker Config                                #
+#                                 by GarbyGas                                #
+##############################################################################
+
+#    If any changes are needed, please Dm me on discord as Garbygas#1132
+#    If I take more then 7 days to reply or if there is a problem with my discord,
+#    Please email me at garbygas@gmail.com
+
+##############################################################################
+
+#this is the hours required to get the rank
+hours-required: 336
+# the name of the rank to give
+rank-name: Veteran
+# check when a player joins if they have the playtime?
+check-on-join: true
+
+# message sent to player when they achieve the rank
+# use formatting codes
+rank-message: "h"
+# message sent to every player when someone gets the vet rank
+# use formatting codes and <playername> or <>
+rank-public-message: "ph"
+# this is the message sent when the player asks for time played / gets rank when the do the command
+# use <hplayed> to display hours played and <hrequired> for the hours the player still needs
+# use formatting codes
+info-request-msg: "kk hplayed <hplayed> hrequired <hrequired>"

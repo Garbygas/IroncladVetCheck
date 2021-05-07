@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="plugin.yml">
+    <output-path>$PROJECT_DIR$/out/artifacts/plugin_yml</output-path>
+    <root id="root">
+      <element id="module-output" name="Ironclad" />
+    </root>
+  </artifact>
+</component>

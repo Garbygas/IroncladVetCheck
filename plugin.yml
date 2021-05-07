@@ -1,0 +1,11 @@
+name: rankcheck
+version: 0.1
+main: com.garby.ironclad.main
+api-version: 1.16
+depend: [PlaceholderAPI, Vault]
+commands:
+   vet:
+      description: check if the player is eligable for veteran rank
+      usage: /vet
+      permission: rankcheck.check
+
